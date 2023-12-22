@@ -1,4 +1,5 @@
-# MetaVF_toolkit
+MetaVF_toolkit is a software to profile VF genes in metagenomic sequencing samples
+
 #step1 install MetaVF_toolkit
 cd /path/to/MetaVF_toolkit
 
