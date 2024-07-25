@@ -1,0 +1,1096 @@
+VFs	complete_num
+A. baumannii | Acinetobactin	18
+A. baumannii | AdeFGH efflux pump	3
+A. baumannii | Bap (Biofilm-associated protein)	1
+A. baumannii | BfmRS (Biofilm-controlling response regulator)	2
+A. baumannii | Csu fimbriae	6
+A. baumannii | OmpA (Outer membrane protein A) 	1
+A. baumannii | Phospholipase C	2
+A. baumannii | Phospholipase D	1
+A. baumannii | PNAG	4
+A. baumannii | Quorom sensing (Autoinducer-receptor mechanism)	2
+A. hydrophila | Aerolysin	1
+A. hydrophila | Amonabactin	1
+A. hydrophila | Exe T2SS 	15
+A. hydrophila | Extracellular hemolysin AHH1	1
+A. hydrophila | Flp type IV pili	13
+A. hydrophila | Heat-stable cytotonic enterotoxin (Ast)	1
+A. hydrophila | Hemolysin HlyA	1
+A. hydrophila | Hemolysin III	1
+A. hydrophila | MSHA type IV pili (Mannose-sensitive haemagglutinin type IV pili) 	14
+A. hydrophila | Polar flagella	62
+A. hydrophila | RtxA (The repeat in toxin) 	6
+A. hydrophila | T6SS	23
+A. hydrophila | T6SS effectors (vgrG1)	1
+A. hydrophila | Tap type IV pili	18
+A. hydrophila | Thermostable hemolysin	1
+A. hydrophila | Type 1 fimbriae	5
+A. phagocytophilum | AipA (A. phagocytophilum invasion protein A) 	1
+A. phagocytophilum | Asp14 (14-kDa A. phagocytophilum surface protein)	1
+A. phagocytophilum | OmpA	1
+A. phagocytophilum | T4SS	24
+A. phagocytophilum | T4SS secreted effectors (ankA)	1
+A. phagocytophilum | T4SS secreted effectors (ats-1)	1
+A. salmonicida | Lateral flagella	36
+A. salmonicida | T3SS	41
+A. salmonicida | T3SS secreted effectors (aexT)	1
+A. salmonicida | T3SS secreted effectors (aopO)	1
+A. salmonicida | T3SS secreted effectors (ati2)	1
+A. salmonicida | Tap type IV pili	2
+B. anthracis | ALO (Anthrolysin O)	1
+B. anthracis | Anthrax toxin	3
+B. anthracis | BslA (B. anthracis S-layer protein A) 	1
+B. anthracis | Capsule	5
+B. anthracis | Hyaluronic acid	3
+B. anthracis | InhA (Immune inhibitor A) 	1
+B. anthracis | Petrobactin	6
+B. anthracis | T7SS	5
+B. bacilliformis | Flagella	28
+B. cereus | B. cereus exo-polysaccharide	9
+B. cereus | Bacillibactin	5
+B. cereus | Cereulide	7
+B. cereus | Certhrax	1
+B. cereus | CytK (Cytotoxin K)	1
+B. cereus | Hal (Heme-acquisition leucine-rich repeat protein)	1
+B. cereus | HBL (Haemolysin BL) 	3
+B. cereus | IlsA (Iron-regulated leucine rich surface protein type A)	1
+B. cereus | Nhe (Nonhemolytic enterotoxin)	3
+B. cereus | Sphingomyelinase	1
+B. fragilis | bft	1
+B. henselae | BadA/Vomp (Bartonella adhesin A/variably expressed outer membrane proteins	2
+B. henselae | Trw T4SS	21
+B. henselae | VirB/VirD4 T4SS	11
+B. henselae | VirB/VirD4 T4SS secreted effectors (bepA)	1
+B. henselae | VirB/VirD4 T4SS secreted effectors (bepB)	1
+B. henselae | VirB/VirD4 T4SS secreted effectors (bepC)	1
+B. henselae | VirB/VirD4 T4SS secreted effectors (bepD)	1
+B. henselae | VirB/VirD4 T4SS secreted effectors (bepE)	1
+B. henselae | VirB/VirD4 T4SS secreted effectors (bepF)	1
+B. henselae | VirB/VirD4 T4SS secreted effectors (bepG)	1
+B. melitensis | Candidate T4SS secreted effectors (btpA)	1
+B. melitensis | CbetaG	1
+B. melitensis | LPS (Lipopolysaccharide)	28
+B. melitensis | RicA (Rab2 interacting conserved protein A)	1
+B. melitensis | VirB T4SS	12
+B. pertussis | Brk (Bordetella resistance to killing)	2
+B. pertussis | Cya (Invasive Adenylate cyclase /haemolysin)	5
+B. pertussis | Dnt (Dermonecrotic toxin)	1
+B. pertussis | FHA (Filamentous haemagglutinin)	2
+B. pertussis | Fimbriae	7
+B. pertussis | LPS	10
+B. pertussis | Pertactin	1
+B. pertussis | Ptl T4SS	9
+B. pertussis | Ptx (Pertussis toxin)	5
+B. pertussis | T3SS	28
+B. pertussis | T3SS secreted effectors (bopB)	1
+B. pertussis | T3SS secreted effectors (bopC/bteA)	1
+B. pertussis | T3SS secreted effectors (bopD)	1
+B. pertussis | T3SS secreted effectors (bopN)	1
+B. pertussis | T3SS secreted effectors (bsp22)	1
+B. pseudomallei | BimA (Burkholderia intracellular motility A) 	1
+B. pseudomallei | BoaA (Burkholderia oligomeric coiled-coil adhesin A) 	1
+B. pseudomallei | BoaB (Burkholderia oligomeric coiled-coil adhesin B)	1
+B. pseudomallei | Bsa T3SS	31
+B. pseudomallei | Bsa T3SS secreted effectors (bipB)	1
+B. pseudomallei | Bsa T3SS secreted effectors (bipC)	1
+B. pseudomallei | Bsa T3SS secreted effectors (bopA)	1
+B. pseudomallei | Bsa T3SS secreted effectors (bopE)	1
+B. pseudomallei | Bsa T3SS secreted effectors (chbp)	1
+B. pseudomallei | Capsule I (Type I O-polysaccharide)	25
+B. pseudomallei | CdpA	1
+B. pseudomallei | Flagella	47
+B. pseudomallei | Quorum-sensing	7
+B. pseudomallei | T6SS	17
+B. pseudomallei | Type IV pili	14
+B. quintana | BadA/Vomp	3
+B. subtilis | BslA	1
+B. suis | Candidate T4SS secreted effectors (btpB)	1
+C. botulinum | BoNT (Botulinum neurotoxin)	1
+C. botulinum | C2 toxin	2
+C. botulinum | C3 toxin	2
+C. burnetii | Dot/Icm T4SS	25
+C. burnetii | T4SS secreted effectors (ankA)	1
+C. burnetii | T4SS secreted effectors (ankB)	1
+C. burnetii | T4SS secreted effectors (ankF)	1
+C. burnetii | T4SS secreted effectors (ankG)	1
+C. burnetii | T4SS secreted effectors (ankH)	1
+C. burnetii | T4SS secreted effectors (ankI)	1
+C. burnetii | T4SS secreted effectors (ankM)	1
+C. burnetii | T4SS secreted effectors (ankP)	1
+C. burnetii | T4SS secreted effectors (caeA/coxCC9)	1
+C. burnetii | T4SS secreted effectors (caeB)	1
+C. burnetii | T4SS secreted effectors (CBU_0062)	1
+C. burnetii | T4SS secreted effectors (CBU_0113)	1
+C. burnetii | T4SS secreted effectors (CBU_0122)	1
+C. burnetii | T4SS secreted effectors (CBU_0183)	1
+C. burnetii | T4SS secreted effectors (CBU_0201)	1
+C. burnetii | T4SS secreted effectors (CBU_0270)	1
+C. burnetii | T4SS secreted effectors (CBU_0295)	1
+C. burnetii | T4SS secreted effectors (CBU_0372)	1
+C. burnetii | T4SS secreted effectors (CBU_0425)	1
+C. burnetii | T4SS secreted effectors (CBU_0469)	1
+C. burnetii | T4SS secreted effectors (CBU_0513)	1
+C. burnetii | T4SS secreted effectors (CBU_0534)	1
+C. burnetii | T4SS secreted effectors (CBU_0590)	1
+C. burnetii | T4SS secreted effectors (CBU_0635)	1
+C. burnetii | T4SS secreted effectors (CBU_0637)	1
+C. burnetii | T4SS secreted effectors (CBU_0665)	1
+C. burnetii | T4SS secreted effectors (CBU_0978)	1
+C. burnetii | T4SS secreted effectors (CBU_1063)	1
+C. burnetii | T4SS secreted effectors (CBU_1079)	1
+C. burnetii | T4SS secreted effectors (CBU_1198)	1
+C. burnetii | T4SS secreted effectors (CBU_1268)	1
+C. burnetii | T4SS secreted effectors (CBU_1349)	1
+C. burnetii | T4SS secreted effectors (CBU_1370)	1
+C. burnetii | T4SS secreted effectors (CBU_1387)	1
+C. burnetii | T4SS secreted effectors (CBU_1409)	1
+C. burnetii | T4SS secreted effectors (CBU_1434)	1
+C. burnetii | T4SS secreted effectors (CBU_1493)	1
+C. burnetii | T4SS secreted effectors (CBU_1530)	1
+C. burnetii | T4SS secreted effectors (CBU_1566)	1
+C. burnetii | T4SS secreted effectors (CBU_1576)	1
+C. burnetii | T4SS secreted effectors (CBU_1594)	1
+C. burnetii | T4SS secreted effectors (CBU_1607)	1
+C. burnetii | T4SS secreted effectors (CBU_1614)	1
+C. burnetii | T4SS secreted effectors (CBU_1639)	1
+C. burnetii | T4SS secreted effectors (CBU_1665)	1
+C. burnetii | T4SS secreted effectors (CBU_1676)	1
+C. burnetii | T4SS secreted effectors (CBU_1677)	1
+C. burnetii | T4SS secreted effectors (CBU_1685)	1
+C. burnetii | T4SS secreted effectors (CBU_1752)	1
+C. burnetii | T4SS secreted effectors (CBU_1754)	1
+C. burnetii | T4SS secreted effectors (CBU_1789)	1
+C. burnetii | T4SS secreted effectors (CBU_1790)	1
+C. burnetii | T4SS secreted effectors (CBU_1794)	1
+C. burnetii | T4SS secreted effectors (CBU_1818)	1
+C. burnetii | T4SS secreted effectors (CBU_1819)	1
+C. burnetii | T4SS secreted effectors (CBU_1863)	1
+C. burnetii | T4SS secreted effectors (CBU_2007)	1
+C. burnetii | T4SS secreted effectors (CBU_2013)	1
+C. burnetii | T4SS secreted effectors (CBU_2016)	1
+C. burnetii | T4SS secreted effectors (CBU_2028)	1
+C. burnetii | T4SS secreted effectors (CBU_2056)	1
+C. burnetii | T4SS secreted effectors (CBU_2076)	1
+C. burnetii | T4SS secreted effectors (CBUA0020)	1
+C. burnetii | T4SS secreted effectors (CBUD_0461)	1
+C. burnetii | T4SS secreted effectors (CBUD_0487)	1
+C. burnetii | T4SS secreted effectors (CBUD_0618)	1
+C. burnetii | T4SS secreted effectors (CBUD_1210)	1
+C. burnetii | T4SS secreted effectors (CBUD_1704)	1
+C. burnetii | T4SS secreted effectors (CBUD_1734)	1
+C. burnetii | T4SS secreted effectors (CBUD_1884)	1
+C. burnetii | T4SS secreted effectors (CBUD_2154)	1
+C. burnetii | T4SS secreted effectors (CbuK_0231)	1
+C. burnetii | T4SS secreted effectors (CbuK_0688)	1
+C. burnetii | T4SS secreted effectors (CbuK_0790)	1
+C. burnetii | T4SS secreted effectors (CbuK_0972)	1
+C. burnetii | T4SS secreted effectors (CbuK_1976)	1
+C. burnetii | T4SS secreted effectors (CbuK_2014)	1
+C. burnetii | T4SS secreted effectors (cetCb1)	1
+C. burnetii | T4SS secreted effectors (cetCb2)	1
+C. burnetii | T4SS secreted effectors (cetCb3)	1
+C. burnetii | T4SS secreted effectors (cetCB4)	1
+C. burnetii | T4SS secreted effectors (cetCb5)	1
+C. burnetii | T4SS secreted effectors (cetCb6)	1
+C. burnetii | T4SS secreted effectors (cirA)	1
+C. burnetii | T4SS secreted effectors (COXBURSA331_A1300)	1
+C. burnetii | T4SS secreted effectors (COXBURSA331_A2190)	1
+C. burnetii | T4SS secreted effectors (coxCC10)	1
+C. burnetii | T4SS secreted effectors (coxCC11)	1
+C. burnetii | T4SS secreted effectors (coxCC12)	1
+C. burnetii | T4SS secreted effectors (coxCC14)	1
+C. burnetii | T4SS secreted effectors (coxCC15)	1
+C. burnetii | T4SS secreted effectors (coxCC2)	1
+C. burnetii | T4SS secreted effectors (coxCC3)	1
+C. burnetii | T4SS secreted effectors (coxCC4)	1
+C. burnetii | T4SS secreted effectors (coxCC5)	1
+C. burnetii | T4SS secreted effectors (coxCC6)	1
+C. burnetii | T4SS secreted effectors (coxCC7)	1
+C. burnetii | T4SS secreted effectors (coxCC8)	1
+C. burnetii | T4SS secreted effectors (coxDFB1)	1
+C. burnetii | T4SS secreted effectors (coxDFB2)	1
+C. burnetii | T4SS secreted effectors (coxDFB3)	1
+C. burnetii | T4SS secreted effectors (coxDFB4)	1
+C. burnetii | T4SS secreted effectors (coxDFB5)	1
+C. burnetii | T4SS secreted effectors (coxDFB6)	1
+C. burnetii | T4SS secreted effectors (coxFIC1)	1
+C. burnetii | T4SS secreted effectors (coxH1)	1
+C. burnetii | T4SS secreted effectors (coxH2)	1
+C. burnetii | T4SS secreted effectors (coxH3)	1
+C. burnetii | T4SS secreted effectors (coxH4)	1
+C. burnetii | T4SS secreted effectors (coxK1)	1
+C. burnetii | T4SS secreted effectors (coxK2)	1
+C. burnetii | T4SS secreted effectors (coxTRP1)	1
+C. burnetii | T4SS secreted effectors (coxU1)	1
+C. burnetii | T4SS secreted effectors (coxU2)	1
+C. burnetii | T4SS secreted effectors (coxU3/cpeC)	1
+C. burnetii | T4SS secreted effectors (cpeA)	1
+C. burnetii | T4SS secreted effectors (cpeB)	1
+C. burnetii | T4SS secreted effectors (cpeD)	1
+C. burnetii | T4SS secreted effectors (cpeE)	1
+C. burnetii | T4SS secreted effectors (cpeF)	1
+C. burnetii | T4SS secreted effectors (cpeG)	1
+C. burnetii | T4SS secreted effectors (cpeH)	1
+C. burnetii | T4SS secreted effectors (cpeI)	1
+C. burnetii | T4SS secreted effectors (cpeJ)	1
+C. burnetii | T4SS secreted effectors (cpeK)	1
+C. burnetii | T4SS secreted effectors (cpeL)	1
+C. burnetii | T4SS secreted effectors (mceA)	1
+C. burnetii | T4SS secreted effectors (phnB)	1
+C. difficile | CbpA (Collagen binding protein A)	1
+C. difficile | CD0873	1
+C. difficile | CD2831	1
+C. difficile | CD3246	1
+C. difficile | CDT (Clostridium difficile toxin)	2
+C. difficile | Cwp66 (Cell wall protein 66)	1
+C. difficile | Cwp84 (Cell wall protein 84)	1
+C. difficile | CwpV (Cell wall protein V)	1
+C. difficile | FbpA/Fbp68 (Fibronectin-binding protein A)	1
+C. difficile | GroEL	1
+C. difficile | SlpA (S-layer protein A)	1
+C. difficile | TcdA	1
+C. difficile | TcdB	1
+C. difficile | Zmp1	1
+C. diphtheriae | DT (Diphtheria toxin)	1
+C. diphtheriae | SpaA-type pili	14
+C. jejuni | CadF	1
+C. jejuni | Capsule	31
+C. jejuni | CDT (Cytolethal distending toxin)	3
+C. jejuni | CiaB (Campylobacter invasion antigen B) 	1
+C. jejuni | CiaC (Campylobacter invasion antigen C) 	1
+C. jejuni | Flagella	64
+C. jejuni | JlpA (Jejuni lipoprotein A)	1
+C. jejuni | LOS (Lipooligosaccharide)	17
+C. jejuni | MOMP (Major outer membrane protein) 	1
+C. jejuni | PEB1	1
+C. jejuni | T4SS	7
+C. perfringens | Alpha-clostripain	1
+C. perfringens | Alpha-toxin (CpPLC) 	1
+C. perfringens | Beta-toxin (CPB) 	1
+C. perfringens | Cna	1
+C. perfringens | CPE (Clostridium perfringens enterotoxin)	1
+C. perfringens | Kappa-toxin	1
+C. perfringens | Mu-toxin	5
+C. perfringens | NetB (Necrotic enteritis toxin B)	1
+C. perfringens | Sialidase	3
+C. perfringens | Theta-toxin/PFO (Perfringolysin O)	1
+C. tetani | TeNT (Tetanus neurotoxin)	1
+C. trachomatis | CPAF (Chlamydial protease-like activating factor )	1
+C. trachomatis | T3SS	31
+C. trachomatis | T3SS secreted effectors (cadD)	1
+C. trachomatis | T3SS secreted effectors (copN)	1
+C. trachomatis | T3SS secreted effectors (cpoS)	1
+C. trachomatis | T3SS secreted effectors (CT621)	1
+C. trachomatis | T3SS secreted effectors (CT622)	1
+C. trachomatis | T3SS secreted effectors (CT668)	1
+C. trachomatis | T3SS secreted effectors (CT847)	1
+C. trachomatis | T3SS secreted effectors (filF)	1
+C. trachomatis | T3SS secreted effectors (incA)	1
+C. trachomatis | T3SS secreted effectors (incB)	1
+C. trachomatis | T3SS secreted effectors (incC)	1
+C. trachomatis | T3SS secreted effectors (incE)	1
+C. trachomatis | T3SS secreted effectors (pkn5)	1
+C. trachomatis | T3SS secreted effectors (tarp)	1
+C. trachomatis | T3SS secreted effectors (tmeB)	1
+E. coli | AAFs (Aggregative adherence fimbriae)	8
+E. coli | Adhesive fimbriae	6
+E. coli | Aerobactin	5
+E. coli | Afa/Dr family	2
+E. coli | Afimbrial adhesin (AFA-I)	1
+E. coli | Afimbrial adhesin (AFA-II)	1
+E. coli | Afimbrial adhesin (AFA-V)	1
+E. coli | Afimbrial adhesin (AfaE-VIII)	5
+E. coli | Alpha-Hemolysin	4
+E. coli | BFP (Bundle-forming Pili)	17
+E. coli | CDT (Cytolethal distending toxin)	3
+E. coli | Chu (E. coli heme uptake)	8
+E. coli | CNF-1 (Cytotoxic necrotizing factor 1)	1
+E. coli | Coli surface antigen CS17	1
+E. coli | Coli surface antigen CS4	4
+E. coli | Colonization factor antigen I fimbriae	4
+E. coli | Dispersin	1
+E. coli | Dr adhesins	3
+E. coli | EAST1	1
+E. coli | ECP (E. coli common pilus)	6
+E. coli | Efa-1/LifA	1
+E. coli | Enterobactin	12
+E. coli | EspP	1
+E. coli | EtpA	2
+E. coli | F17 pili	3
+E. coli | F1845 fimbrial adhesin	3
+E. coli | F1C fimbriae	7
+E. coli | FdeC (Factor adherence E. coli)	1
+E. coli | Heat-labile toxin	2
+E. coli | Heat-stable toxin	1
+E. coli | Hemolysin	4
+E. coli | Intimin	1
+E. coli | IroN	1
+E. coli | K1 capsule	13
+E. coli | K88 pili/F4 fimbriae	8
+E. coli | OmpA (Outer membrane protein A)	1
+E. coli | P fimbriae	12
+E. coli | Paa	1
+E. coli | Pet	1
+E. coli | Pic-EAEC	1
+E. coli | Pic-UPEC	1
+E. coli | S fimbriae	8
+E. coli | Salmochelin	4
+E. coli | Sat (Secreted autotransporter toxin)	1
+E. coli | ShET1	2
+E. coli | Stx (Shiga toxin)	4
+E. coli | T2SS effectors (stcE)	1
+E. coli | T3SS	35
+E. coli | T3SS secreted effectors (cif)	1
+E. coli | T3SS secreted effectors (espF)	1
+E. coli | T3SS secreted effectors (espFu/tccP)	1
+E. coli | T3SS secreted effectors (espG)	1
+E. coli | T3SS secreted effectors (espH)	1
+E. coli | T3SS secreted effectors (espJ)	1
+E. coli | T3SS secreted effectors (espK)	1
+E. coli | T3SS secreted effectors (espL1)	1
+E. coli | T3SS secreted effectors (espL2)	1
+E. coli | T3SS secreted effectors (espL4)	1
+E. coli | T3SS secreted effectors (espM1)	1
+E. coli | T3SS secreted effectors (espM2)	1
+E. coli | T3SS secreted effectors (espN)	2
+E. coli | T3SS secreted effectors (espO1-1)	1
+E. coli | T3SS secreted effectors (espO1-2)	1
+E. coli | T3SS secreted effectors (espR1)	1
+E. coli | T3SS secreted effectors (espR3)	1
+E. coli | T3SS secreted effectors (espR4)	1
+E. coli | T3SS secreted effectors (espT)	1
+E. coli | T3SS secreted effectors (espW)	1
+E. coli | T3SS secreted effectors (espX1)	1
+E. coli | T3SS secreted effectors (espX2)	1
+E. coli | T3SS secreted effectors (espX4)	1
+E. coli | T3SS secreted effectors (espX5)	1
+E. coli | T3SS secreted effectors (espX6)	1
+E. coli | T3SS secreted effectors (espX7/nleL)	2
+E. coli | T3SS secreted effectors (espY1)	1
+E. coli | T3SS secreted effectors (espY2)	1
+E. coli | T3SS secreted effectors (espY3)	1
+E. coli | T3SS secreted effectors (espY4)	1
+E. coli | T3SS secreted effectors (map)	1
+E. coli | T3SS secreted effectors (nleA)	1
+E. coli | T3SS secreted effectors (nleA/espI)	1
+E. coli | T3SS secreted effectors (nleB1)	1
+E. coli | T3SS secreted effectors (nleB2)	1
+E. coli | T3SS secreted effectors (nleC)	1
+E. coli | T3SS secreted effectors (nleD)	1
+E. coli | T3SS secreted effectors (nleE)	1
+E. coli | T3SS secreted effectors (nleF)	1
+E. coli | T3SS secreted effectors (nleH1)	1
+E. coli | T3SS secreted effectors (nleH2)	1
+E. coli | T3SS secreted effectors (sepZ/espZ)	1
+E. coli | TcpC (TIR domain containing protein)	1
+E. coli | ToxB	1
+E. coli | Tsh (Temperature sensitive hemagglutinin)	1
+E. coli | Type 1 fimbriae	9
+E. faecalis | Ace (Adhesin to collagen of E. faecalis)	1
+E. faecalis | AS (Aggregation substance)	4
+E. faecalis | BopD	1
+E. faecalis | Capsule	11
+E. faecalis | Cytolysin	8
+E. faecalis | Ebp pili (Endocarditis- and biofilm-associated pilus)	4
+E. faecalis | EfaA	1
+E. faecalis | Esp (Enterococcal surface protein)	1
+E. faecalis | Fibrinogen binding protein	3
+E. faecalis | Fsr (E. faecalis regulator)	3
+E. faecalis | Gelatinase	1
+E. faecalis | Hyaluronidase	2
+E. faecalis | SprE	1
+E. faecium | Acm	1
+E. faecium | EcbA	1
+E. faecium | Scm (Second collagen adhesin of E. faecium)	1
+E. faecium | SgrA (Serine glutamate repeat A)	1
+F. nucleatum | FadA	1
+F. tularensis | Acid phosphatase	3
+F. tularensis | Acid phosphotase	1
+F. tularensis | AnsP	1
+F. tularensis | ArgP	1
+F. tularensis | Biotin synthesis	7
+F. tularensis | Capsule	15
+F. tularensis | DipA (Deficient in intracellular replication A)	1
+F. tularensis | EF-Tu	1
+F. tularensis | FmvB (Francisella metal and virulence gene B)	1
+F. tularensis | FsaP	1
+F. tularensis | FupA (Fe utilization protein A)	2
+F. tularensis | GadC	1
+F. tularensis | GGT (gama-glutamyl transpeptidase)	1
+F. tularensis | IleP	1
+F. tularensis | LPS	25
+F. tularensis | OmpA	1
+F. tularensis | Purine biosynthesis	2
+F. tularensis | Pyrimidine biosynthesis	3
+F. tularensis | Rhizoferrin	5
+F. tularensis | RipA (Required for intracellular proliferation)	1
+F. tularensis | T6SS	14
+F. tularensis | T6SS secreted effectors (pdpC2)	1
+F. tularensis | T6SS secreted effectors (pdpD1)	1
+F. tularensis | T6SS secreted effectors (pdpE2)	1
+F. tularensis | Type IV pili	10
+H. influenzae | Capsule	9
+H. influenzae | Haemagglutinating pili	5
+H. influenzae | Hia/Hsf	1
+H. influenzae | HitABC	1
+H. influenzae | HMW1/HMW2 (High-molecular-weight proteins)	6
+H. influenzae | HxuABC	3
+H. influenzae | IgA1 protease	1
+H. influenzae | LOS	46
+H. influenzae | OapA	1
+H. influenzae | P2 protein	1
+H. influenzae | P5 protein	1
+H. influenzae | Tbp (Transferrin-binding protein)	2
+H. pylori | BabA (Blood group antigen binding adhesin)	2
+H. pylori | CagA (Cytotoxin-associated antigen)	1
+H. pylori | Flagella	55
+H. pylori | Flagellar glycosylation/Pse biosynthetic pathway	4
+H. pylori | HopZ (H. pylori outer membrane protein)	1
+H. pylori | HP-NAP (Neutrophil activating protein)	1
+H. pylori | Lewis antigen	4
+H. pylori | LPS	11
+H. pylori | OipA (Outer inflammatory protein)	1
+H. pylori | SabA (Sialic acid-binding adhesin)	1
+H. pylori | SabB (Sialic acid-binding adhesin)	1
+H. pylori | T4SS	26
+H. pylori | Urease	7
+H. pylori | VacA (Vacuolating cytotoxin A)	1
+K. pneumoniae | AcrAB	2
+K. pneumoniae | Aerobactin	5
+K. pneumoniae | Allantion utilization	6
+K. pneumoniae | Capsule	20
+K. pneumoniae | Colibactin	18
+K. pneumoniae | Enterobactin	13
+K. pneumoniae | LPS	7
+K. pneumoniae | RcsAB (Regulation of capsule synthesis)	2
+K. pneumoniae | rmpA	1
+K. pneumoniae | rmpA_1	1
+K. pneumoniae | rmpA2	1
+K. pneumoniae | Salmochelin	5
+K. pneumoniae | T6SS	17
+K. pneumoniae | T6SS secreted effectors (tle1)	1
+K. pneumoniae | Type 1 fimbriae	10
+K. pneumoniae | Type 3 fimbriae	8
+K. pneumoniae | Yersiniabactin	11
+L. innocua | LLS (Listeriolysin S)	7
+L. ivanovii | Smase	1
+L. monocytogenes | ActA	1
+L. monocytogenes | Ami	1
+L. monocytogenes | Auto	1
+L. monocytogenes | BSH	1
+L. monocytogenes | ClpC	1
+L. monocytogenes | ClpE	1
+L. monocytogenes | ClpP	1
+L. monocytogenes | FbpA	1
+L. monocytogenes | GtcA	1
+L. monocytogenes | Hpt (Hexose phosphate transporter)	1
+L. monocytogenes | InlA (Internalin A)	1
+L. monocytogenes | InlB	1
+L. monocytogenes | InlC	1
+L. monocytogenes | InlF (Internalin F)	1
+L. monocytogenes | InlJ (Internalin J)	1
+L. monocytogenes | InlK	1
+L. monocytogenes | InlP (Internalin P)	1
+L. monocytogenes | Lap (Listeria adhesion protein)	1
+L. monocytogenes | LapB	1
+L. monocytogenes | LLO (Listeriolysin O)	1
+L. monocytogenes | LntA (Listeria nuclear targeted protein A)	1
+L. monocytogenes | LpeA (Lipoprotein promoting entry)	1
+L. monocytogenes | LplA1	1
+L. monocytogenes | Lsp	1
+L. monocytogenes | Mpl	1
+L. monocytogenes | OatA	1
+L. monocytogenes | P60	1
+L. monocytogenes | PgdA	1
+L. monocytogenes | PlcA (PI-PLC)	1
+L. monocytogenes | PlcB (PI-PLC)	1
+L. monocytogenes | PrfA (Pleiotropic regulatory factor)	1
+L. monocytogenes | PrsA2	1
+L. monocytogenes | Vip (Virulence protein)	1
+L. pneumophila | CcmC	6
+L. pneumophila | Dot/Icm T4SS	36
+L. pneumophila | Dot/Icm T4SS secreted effectors (ankB/legAU13/ceg27)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (ankC/legA12)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (ankD/legA15)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (ankF/legA14/ceg31)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (ankG/ankZ/legA7)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (ankH/legA3/ankW)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (ankI/legAS4)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (ankJ/legA11)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (ankK/legA5)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (ankN/ankX/legA8)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (ankQ/legA10)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (ankY/legA9)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (ceg10)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (ceg14/sidL)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (ceg15)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (ceg17)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (ceg18)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (ceg19)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (ceg23)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (ceg25)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (ceg28)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (ceg29)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (ceg3)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (ceg30)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (ceg32/sidI)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (ceg33)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (ceg34)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (ceg4)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (ceg5)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (ceg7)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (ceg8)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (ceg9)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (cegC1)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (cegC2)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (cegC3)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (cegC4)	2
+L. pneumophila | Dot/Icm T4SS secreted effectors (laiE)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (legA1)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (legA2)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (legA6)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (legA7)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (legC1)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (legC3/ppeA)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (legC4)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (legC6)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (legD1)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (legD2)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (legG2)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (legK1)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (legK2)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (legK3)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (legL1)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (legL2)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (legL3)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (legL5)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (legL6)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (legL7)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (legLC4)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (legLC8)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (legN)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (legP)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (legS1)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (legS2)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (legT)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (legU1)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (legY)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (lem1)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (lem10)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (lem11)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (lem12)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (lem14)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (lem15)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (lem16)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (lem17)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (lem19)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (lem2)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (lem20)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (lem21)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (lem22)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (lem23)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (lem24)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (lem25)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (lem26)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (lem27)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (lem28)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (lem29)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (lem3)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (lem4/smdA)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (lem5)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (lem6)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (lem7)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (lem8)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (lem9)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (lepA)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (lepB)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (lgt2/legC8)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (lgt3/legC5)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (lidA)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (lidL)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (lirA)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (lirB)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (lpg0045)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (lpg0081)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (lpg0172)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (lpg0181)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (lpg0257)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (lpg0260)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (lpg0294)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (lpg0364)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (lpg0365)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (lpg0375)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (lpg0405)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (lpg0518)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (lpg0634)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (lpg0716)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (lpg0796)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (lpg0963)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (lpg0967)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (lpg1083)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (lpg1106)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (lpg1124)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (lpg1137)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (lpg1147)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (lpg1148)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (lpg1158)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (lpg1171)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (lpg1273)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (lpg1449)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (lpg1453)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (lpg1484)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (lpg1578)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (lpg1639)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (lpg1654)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (lpg1661)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (lpg1666)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (lpg1667)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (lpg1670)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (lpg1684)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (lpg1685)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (lpg1689)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (lpg1692)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (lpg1716)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (lpg1717)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (lpg1751)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (lpg1752)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (lpg1776)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (lpg1803)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (lpg1888)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (lpg1907)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (lpg1924)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (lpg1959)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (lpg1975)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (lpg1986)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (lpg2050)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (lpg2148)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (lpg2149)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (lpg2160)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (lpg2223)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (lpg2239)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (lpg2271)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (lpg2327)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (lpg2359)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (lpg2370)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (lpg2372)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (lpg2382)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (lpg2407)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (lpg2420)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (lpg2434)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (lpg2443)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (lpg2461)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (lpg2505)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (lpg2525)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (lpg2527)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (lpg2538)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (lpg2539)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (lpg2541)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (lpg2546)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (lpg2552)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (lpg2555)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (lpg2628)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (lpg2637)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (lpg2692)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (lpg2744)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (lpg2745)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (lpg2828)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (lpg2832)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (lpg2844)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (lpg2874)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (lpg2879)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (lpg2884)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (lpg2885)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (lpg2888)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (lpg2912)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (lpg2936)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (lpg2975)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (lpg3000)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (lpnE)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (lubX/legU2)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (mavA)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (mavB)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (mavC)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (mavE)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (mavF)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (mavG)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (mavH)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (mavI)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (mavJ)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (mavL)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (mavM)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (mavN)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (mavV)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (pieA/lirC)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (pieB/lirD)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (pieC/lirE)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (pieD/lirF)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (pieE)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (pieF)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (pieG/legG1)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (ppeB)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (ppgA)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (ravE)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (ravF)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (ravG)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (ravH)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (ravI)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (ravJ)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (ravK)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (ravL)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (ravM)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (ravN)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (ravO)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (ravP)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (ravQ)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (ravR)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (ravS)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (ravT)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (ravW)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (ravX)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (ravY)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (ravZ)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (rvfA)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (sdbA)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (sdbB)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (sdbC)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (sdcA)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (sdeA/laiA)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (sdeB)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (sdeC/laiC)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (sdeD/laiF)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (sdhA)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (sdhB)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (sdjA)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (setA)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (sidB)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (sidC)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (sidD)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (sidE/laiD)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (sidF)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (sidG)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (sidH)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (sidJ)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (sidK)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (sidM/drrA)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (vpdA)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (vpdB)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (vpdC)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (ylfA/legC7)	1
+L. pneumophila | Dot/Icm T4SS secreted effectors (ylfB/legC2)	1
+L. pneumophila | Enh loci (Enhanced entry)	3
+L. pneumophila | FeoAB	2
+L. pneumophila | Flagella	30
+L. pneumophila | FrgA (fur regulated gene)	1
+L. pneumophila | Hsp60	1
+L. pneumophila | IraAB	2
+L. pneumophila | KatAB	2
+L. pneumophila | Legiobactin	4
+L. pneumophila | LigA (L. pneumophila infectivity gene)	1
+L. pneumophila | Lsp T2SS	11
+L. pneumophila | Mip (Macrophage infectivity potentiator)	1
+L. pneumophila | MOMP (Major outer membrane protein)	1
+L. pneumophila | Pht (Phagosomal transporter)	1
+L. pneumophila | Polar flagella	11
+L. pneumophila | RtxA	1
+L. pneumophila | SodB	1
+L. pneumophila | SodC	1
+L. pneumophila | Type IV pili	19
+M. genitalium | Cytadherence organella	1
+M. hyopneumoniae | P97/P102 paralog family	8
+M. pneumoniae | CARDS toxin (Community Acquired Respiratory Distress Syndrome toxin)	1
+M. pneumoniae | Cytadherence organelle	8
+M. tuberculosis | Antigen 85	3
+M. tuberculosis | Erp	1
+M. tuberculosis | ESX-1 T7SS	23
+M. tuberculosis | ESX-3 T7SS	9
+M. tuberculosis | ESX-3 T7SS secreted effectors (esxG)	1
+M. tuberculosis | ESX-3 T7SS secreted effectors (esxH)	1
+M. tuberculosis | ESX-5 T7SS	9
+M. tuberculosis | FadD33	1
+M. tuberculosis | HbhA	1
+M. tuberculosis | HspX (16-kDa alpha-crystallin-like protein)	1
+M. tuberculosis | IdeR	1
+M. tuberculosis | Isocitrate lyase	1
+M. tuberculosis | LipF	1
+M. tuberculosis | MgtC	1
+M. tuberculosis | Mycobactin	15
+M. tuberculosis | PhoP	2
+M. tuberculosis | Phospholipase C	3
+M. tuberculosis | RelA	1
+N. meningitidis | Capsule	10
+N. meningitidis | FarAB (Fatty acid resistance system)	2
+N. meningitidis | FbpABC	3
+N. meningitidis | FHbp	1
+N. meningitidis | HmbR	1
+N. meningitidis | HpuAB	2
+N. meningitidis | IgA1 protease	1
+N. meningitidis | KatA	1
+N. meningitidis | Lbp (Lactoferrin-binding protein)	2
+N. meningitidis | MntABC (Manganese transport system)	3
+N. meningitidis | MsrAB (Methionine sulphoxide reductase)	1
+N. meningitidis | MtrCDE (Multiple transferable resistance system)	3
+N. meningitidis | NspA (Neisserial surface protein A)	1
+N. meningitidis | Opc	1
+N. meningitidis | Porin	1
+N. meningitidis | RecN	1
+N. meningitidis | Tbp (Transferrin-binding protein)	2
+N. meningitidis | Type IV pili	20
+P. aeruginosa | Alginate (Mucoid exopolysaccharide)	26
+P. aeruginosa | Alkaline protease	1
+P. aeruginosa | ExoA (Exotoxin A)	1
+P. aeruginosa | Exolysin	2
+P. aeruginosa | Flagella	46
+P. aeruginosa | HSI-1 T6SS	23
+P. aeruginosa | HSI-1 T6SS secreted effectors (tse1)	1
+P. aeruginosa | HSI-1 T6SS secreted effectors (tse2)	1
+P. aeruginosa | HSI-1 T6SS secreted effectors (tse3)	1
+P. aeruginosa | LPS	7
+P. aeruginosa | PLC (Phospholipase C)	1
+P. aeruginosa | Pyochelin	11
+P. aeruginosa | Pyocyanin	10
+P. aeruginosa | Pyoverdine	22
+P. aeruginosa | Quorum sensing	2
+P. aeruginosa | Rhamnolipid	3
+P. aeruginosa | T2SS secreted effectors (lasA)	1
+P. aeruginosa | T2SS secreted effectors (lasB)	1
+P. aeruginosa | T3SS	38
+P. aeruginosa | T3SS secreted effectors (exoS)	1
+P. aeruginosa | T3SS secreted effectors (exoT)	1
+P. aeruginosa | T3SS secreted effectors (exoU)	1
+P. aeruginosa | T3SS secreted effectors (exoY)	1
+P. aeruginosa | Type IV pili	33
+P. aeruginosa | Xcp secretion system	11
+R. conorii | RickA	1
+R. rickettsii | ROmpA/Sca0 (Surface cell antigen 0)	1
+R. typhi | Adr1 (Adhesion of Rickettsiae protein 1)	1
+R. typhi | Adr2 (Adhesion of Rickettsiae protein 2)	1
+R. typhi | Phospholipase A2	2
+R. typhi | Pld	1
+R. typhi | ROmpB/Sca5 (Surface cell antigen 5)	1
+R. typhi | Rvh T4SS	17
+R. typhi | Sca1 (Surface cell antigen 1)	1
+R. typhi | Sca2 (Surface cell antigen 2)	1
+R. typhi | Sca4 (Surface cell antigen 4)	1
+R. typhi | TlyC	1
+S. agalactiae | Alpha-C protein	1
+S. agalactiae | Beta-haemolysin/cytolysin	12
+S. agalactiae | C5a peptidase	1
+S. agalactiae | CAMP factor	1
+S. agalactiae | Capsule	18
+S. agalactiae | FbsA	1
+S. agalactiae | FbsB	1
+S. agalactiae | Hyaluronate lyase	1
+S. agalactiae | Lmb	1
+S. agalactiae | PI-1 (Pilus island 1)	4
+S. agalactiae | PI-2a (Pilus island 2a)	4
+S. aureus | AdsA (Adenosine synthase A)	1
+S. aureus | Alpha-hemolysin	1
+S. aureus | Aureolysin	1
+S. aureus | Beta-hemolysin	1
+S. aureus | Capsule	16
+S. aureus | CHIPS (Chemotaxis inhibitory protein of Staphylococcus)	1
+S. aureus | Clumping factor	2
+S. aureus | CNA (Collagen binding protein)	1
+S. aureus | Delta-hemolysin	1
+S. aureus | Eap/Map (Extracellular adherence protein/MHC analogous protein)	1
+S. aureus | EbpS (Elastin-binding protein)	1
+S. aureus | Exfoliative toxin (eta)	1
+S. aureus | Exfoliative toxin (etb)	1
+S. aureus | FnBPs	2
+S. aureus | Gamma-hemolysin	3
+S. aureus | Hyaluronate lyase	1
+S. aureus | Intercellular adhesion proteins	5
+S. aureus | Isd	8
+S. aureus | Leukocidin	1
+S. aureus | Lipase	2
+S. aureus | PVL	2
+S. aureus | Sbi	1
+S. aureus | SCIN	1
+S. aureus | SDr (Ser-Asp rich proteins)	3
+S. aureus | SE (Staphylococcal enterotoxin)	6
+S. aureus | SE (Staphylococcal enterotoxin seb)	1
+S. aureus | SE (Staphylococcal enterotoxin sed)	1
+S. aureus | SpA (Staphylococcal protein A)	1
+S. aureus | Staphopain	2
+S. aureus | Staphylocoagulase	1
+S. aureus | Staphylokinase	1
+S. aureus | T7SS	20
+S. aureus | TSST-1 (Toxic shock syndrome toxin-1)	1
+S. aureus | V8 protease	1
+S. aureus | VWbp (Von Willebrand factor-binding protein)	1
+S. dysenteriae | Shu	7
+S. dysenteriae | T2SS	11
+S. enterica | Agf (Thin aggregative fimbriae (or curli))	7
+S. enterica | Bovine colonization factor	7
+S. enterica | GrvA	1
+S. enterica | Lpf (Long polar fimbriae)	5
+S. enterica | MgtBC	2
+S. enterica | Mig-14	1
+S. enterica | MisL	1
+S. enterica | Pef (Plasmid-encoded fimbriae)	4
+S. enterica | RatB	1
+S. enterica | Rck (Resistance to complement killing)	1
+S. enterica | ShdA	1
+S. enterica | SinH	1
+S. enterica | SodCI	1
+S. enterica | T3SS (SPI-1 encode)	26
+S. enterica | T3SS (SPI-2 encode)	26
+S. enterica | T3SS secreted effectors (SPI-1 encode) (avrA)	1
+S. enterica | T3SS secreted effectors (SPI-1 encode) (sipA/sspA)	1
+S. enterica | T3SS secreted effectors (SPI-1 encode) (sipB/sspB)	1
+S. enterica | T3SS secreted effectors (SPI-1 encode) (sipC/sspC)	1
+S. enterica | T3SS secreted effectors (SPI-1 encode) (sopA)	1
+S. enterica | T3SS secreted effectors (SPI-1 encode) (sopB/sigD)	1
+S. enterica | T3SS secreted effectors (SPI-1 encode) (sopD)	1
+S. enterica | T3SS secreted effectors (SPI-1 encode) (sopE2)	1
+S. enterica | T3SS secreted effectors (SPI-1 encode) (sptP)	1
+S. enterica | T3SS secreted effectors (SPI-1 encode) (steA)	1
+S. enterica | T3SS secreted effectors (SPI-1 encode) (steB)	1
+S. enterica | T3SS secreted effectors (SPI-2 encode) (gogB)	1
+S. enterica | T3SS secreted effectors (SPI-2 encode) (pipB)	1
+S. enterica | T3SS secreted effectors (SPI-2 encode) (pipB2)	1
+S. enterica | T3SS secreted effectors (SPI-2 encode) (sifA)	1
+S. enterica | T3SS secreted effectors (SPI-2 encode) (sifB)	1
+S. enterica | T3SS secreted effectors (SPI-2 encode) (sopD2)	1
+S. enterica | T3SS secreted effectors (SPI-2 encode) (spiC/ssaB)	1
+S. enterica | T3SS secreted effectors (SPI-2 encode) (spvB)	1
+S. enterica | T3SS secreted effectors (SPI-2 encode) (spvC)	1
+S. enterica | T3SS secreted effectors (SPI-2 encode) (sseF)	1
+S. enterica | T3SS secreted effectors (SPI-2 encode) (sseG)	1
+S. enterica | T3SS secreted effectors (SPI-2 encode) (sseI/srfH)	1
+S. enterica | T3SS secreted effectors (SPI-2 encode) (sseJ)	1
+S. enterica | T3SS secreted effectors (SPI-2 encode) (sseK1)	1
+S. enterica | T3SS secreted effectors (SPI-2 encode) (sseK2)	1
+S. enterica | T3SS secreted effectors (SPI-2 encode) (sseL)	1
+S. enterica | T3SS secreted effectors (SPI-2 encode) (sspH2)	1
+S. enterica | T3SS secreted effectors (SPI-2 encode) (steC)	1
+S. enterica | Type 1 fimbriae	5
+S. enterica | Typhoid toxin	1
+S. enterica | Vi antigen	9
+S. flexneri | Aerobactin	4
+S. flexneri | IcsA (VirG)	1
+S. flexneri | IcsP (SopA)	1
+S. flexneri | LPS	3
+S. flexneri | Pic	1
+S. flexneri | ShET2	1
+S. flexneri | SigA (Shigella IgA-like protease homology)	1
+S. flexneri | T3SS	26
+S. flexneri | T3SS secreted effectors (icsB)	1
+S. flexneri | T3SS secreted effectors (ipaA)	1
+S. flexneri | T3SS secreted effectors (ipaB)	1
+S. flexneri | T3SS secreted effectors (ipaC)	1
+S. flexneri | T3SS secreted effectors (ipaH1.4)	1
+S. flexneri | T3SS secreted effectors (ipaH2.5)	1
+S. flexneri | T3SS secreted effectors (ipaH4.5)	1
+S. flexneri | T3SS secreted effectors (ipaH7.8)	1
+S. flexneri | T3SS secreted effectors (ipaH9.8)	1
+S. flexneri | T3SS secreted effectors (ipaJ)	1
+S. flexneri | T3SS secreted effectors (ipgB1)	1
+S. flexneri | T3SS secreted effectors (ipgB2)	1
+S. flexneri | T3SS secreted effectors (ipgD)	1
+S. flexneri | T3SS secreted effectors (ospB)	1
+S. flexneri | T3SS secreted effectors (ospC1)	1
+S. flexneri | T3SS secreted effectors (ospC2)	1
+S. flexneri | T3SS secreted effectors (ospC3)	1
+S. flexneri | T3SS secreted effectors (ospC4)	1
+S. flexneri | T3SS secreted effectors (ospD1)	1
+S. flexneri | T3SS secreted effectors (ospD2)	1
+S. flexneri | T3SS secreted effectors (ospD3/senA)	1
+S. flexneri | T3SS secreted effectors (ospE1)	1
+S. flexneri | T3SS secreted effectors (ospE2)	1
+S. flexneri | T3SS secreted effectors (ospF)	1
+S. flexneri | T3SS secreted effectors (ospG)	1
+S. flexneri | T3SS secreted effectors (ospI)	1
+S. flexneri | T3SS secreted effectors (virA)	1
+S. mutans | SpaP	1
+S. pneumoniae | Autolysin	4
+S. pneumoniae | Capsule	12
+S. pneumoniae | CbpA/PspC	2
+S. pneumoniae | CBPs (Choline binding proteins)	2
+S. pneumoniae | Hyaluronate lyase	1
+S. pneumoniae | IgA1 protease	1
+S. pneumoniae | Neuraminidase	2
+S. pneumoniae | PavA (Pneumococcal adherence and virulence factor A)	1
+S. pneumoniae | PavB (Pneumococcal adhesion and virulence factor B)	1
+S. pneumoniae | PfbA (Plasmin and fibronectin-binding protein A)	1
+S. pneumoniae | PI-1 (Pilus island 1)	6
+S. pneumoniae | PI-2a (Pilus island 2a)	5
+S. pneumoniae | Pneumolysin	1
+S. pneumoniae | PsaA (Pneumococcal surface antigen A)	1
+S. pneumoniae | PspA (Pneumococcal surface protein A)	2
+S. pyogenes | C5a peptidase	1
+S. pyogenes | DNase	4
+S. pyogenes | Fibronectin-bing protein	5
+S. pyogenes | GAS pili	5
+S. pyogenes | GRAB (G-related alpha2macroglobulin-binding protein)	1
+S. pyogenes | Hyaluronic acid capsule	3
+S. pyogenes | Hyaluronidase	3
+S. pyogenes | IdeS (IgG-degrading enzyme of S. pyogenes)	1
+S. pyogenes | M protein	3
+S. pyogenes | SIC (Streptococcal inhibitor of complement-mediated lysis)	1
+S. pyogenes | SLO (Streptolysin O)	1
+S. pyogenes | SLS (Streptolysin S)	1
+S. pyogenes | SpeB (Streptococcal pyrogenic exotoxin B)	1
+S. pyogenes | Spes (Streptococcal pyrogenic exotoxins)	11
+S. pyogenes | Streptokinase	1
+S. sonnei | T6SS	14
+V. cholerae | Ace (Accessory cholera enterotoxin)	1
+V. cholerae | ACF (Accessory colonization factor)	4
+V. cholerae | AI-2 (Autoinducer-2)	1
+V. cholerae | CAI-1 (Cholerae autoinducer-1)	1
+V. cholerae | CT (Cholera toxin)	2
+V. cholerae | Flagella	59
+V. cholerae | MARTX (Multifunctional autoprocessing RTX toxin)	4
+V. cholerae | MSHA pili (Mannose-sensitive hemagglutinin pili)	14
+V. cholerae | T6SS	19
+V. cholerae | T6SS secreted effectors (vgrG-3)	1
+V. cholerae | TCP (Toxin-coregulated pilus)	15
+V. cholerae | VCC (Vibrio cholerae cytolysin)	1
+V. cholerae | Zot (Zonula occludens toxin)	1
+V. parahaemolyticus | MAM7 (Multivalent adhesion molecule 7)	1
+V. parahaemolyticus | T3SS-1	35
+V. parahaemolyticus | T3SS-1 secreted effectors (vopQ)	1
+V. parahaemolyticus | T3SS-1 secreted effectors (vopR)	1
+V. parahaemolyticus | T3SS-1 secreted effectors (vopS)	1
+V. parahaemolyticus | T3SS-1 secreted effectors (VPA0450)	1
+V. parahaemolyticus | T3SS-2	21
+V. parahaemolyticus | T3SS-2 secreted effectors (vopA/vopP)	1
+V. parahaemolyticus | T3SS-2 secreted effectors (vopC)	1
+V. parahaemolyticus | T3SS-2 secreted effectors (vopL)	1
+V. parahaemolyticus | T3SS-2 secreted effectors (vopT)	1
+V. parahaemolyticus | TDH (Thermostable direct hemolysin)	1
+V. parahaemolyticus | TLH (Thermolabile hemolysin)	1
+V. parahaemolyticus | TRH (TDH-related hemolysin)	1
+V. parahaemolyticus | VpadF (V. parahaemolyticus adhesive factor)	1
+V. vulnificus | IlpA (Immunogenic lipoprotein A)	1
+V. vulnificus | OmpU	1
+Y. enterocolitica | Flagella	51
+Y. enterocolitica | Invasin	1
+Y. enterocolitica | O-antigen	18
+Y. enterocolitica | Type IV pili	11
+Y. enterocolitica | YaxAB	2
+Y. enterocolitica | Yst	2
+Y. pestis | Ail (Attachment-invasion locus)	1
+Y. pestis | F1 antigen (Fraction 1 capsular antigen)	4
+Y. pestis | Myf/pH6 antigen (Mucoid Yersinia factor)	5
+Y. pestis | Pla (Plasminogen activator)	1
+Y. pestis | T3SS	37
+Y. pestis | T3SS secreted effectors (yopE)	1
+Y. pestis | T3SS secreted effectors (yopH)	1
+Y. pestis | T3SS secreted effectors (yopJ/yopP)	1
+Y. pestis | T3SS secreted effectors (yopK/yopQ)	1
+Y. pestis | T3SS secreted effectors (yopM)	1
+Y. pestis | T3SS secreted effectors (yopO/ypkA)	1
+Y. pestis | T3SS secreted effectors (yopT)	1
+Y. pestis | YapC	1
+Y. pestis | YapE	1
+Y. pestis | YapJ	1
+Y. pestis | YapK	1
+Y. pestis | YapV	1
+Y. pestis | Yersiniabactin	11
+Y. pestis | Ymt (Yersinia murine toxin)	1
+Y. pseudotuberculosis | CNF (Cytotoxic necrotizing factor)	1
+Y. pseudotuberculosis | Invasin B/Ifp	1
+Y. pseudotuberculosis | Invasin C/Ilp	1
+Y. pseudotuberculosis | Invasin D	1
+Y. pseudotuberculosis | YadA ( Yersinia adherence protein A)	1

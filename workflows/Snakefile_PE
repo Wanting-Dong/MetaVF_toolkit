@@ -1,0 +1,84 @@
+import os
+metaVF_sequence_db="databases/eVFGC.fasta"
+VF_file1="databases/VF_info_file"
+VF_file2="databases/VFs_complete_num"
+SAMPLE=config["metaVF"]["sample"]
+PROJECT=config["metaVF"]["project"]
+data_dir=config["metaVF"]["datadir"]
+out_dir=config["metaVF"]["outdir"]
+rule all:
+    input:
+        expand(os.path.join(out_dir,'{project}/{sample}/intermediate_files/{sample}.sam'),sample=SAMPLE,project=PROJECT),
+        expand(os.path.join(out_dir,'{project}/{sample}/intermediate_files/{sample}.rpkm'),sample=SAMPLE,project=PROJECT),
+        expand(os.path.join(out_dir,'{project}/{sample}/intermediate_files/{sample}.sam.filter'),sample=SAMPLE,project=PROJECT),
+        expand(os.path.join(out_dir,'{project}/{sample}/{sample}.summary'),sample=SAMPLE,project=PROJECT),
+        expand(os.path.join(out_dir,'{project}/{sample}/{sample}.VF_info.summary'),sample=SAMPLE,project=PROJECT)
+
+
+#step1
+rule mapping:
+    input:
+        os.path.join(data_dir,'{sample}_1.fastq.gz'),
+        os.path.join(data_dir,'{sample}_2.fastq.gz')
+    output:
+        sam=os.path.join(out_dir,'{project}/{sample}/intermediate_files/{sample}.sam'),
+        rpkm=os.path.join(out_dir,'{project}/{sample}/intermediate_files/{sample}.rpkm')
+    log:
+        os.path.join(out_dir,'{project}/{sample}/logs/{sample}.mapping.log')
+    message:
+        "step1: mapping reads to VF datatset by bbmap"
+    threads: 6
+    conda:
+        "MetaVF_toolkit"
+    shell:
+        "bbmap.sh in={input[0]} in2={input[1]} outm={output.sam}  threads={threads} rpkm={output.rpkm} \
+        idtag=t ambiguous=random ref={metaVF_sequence_db} nodisk"
+
+#step2
+rule filter_sam:
+    input:
+        os.path.join(out_dir,'{project}/{sample}/intermediate_files/{sample}.sam')
+    output:
+        os.path.join(out_dir,'{project}/{sample}/intermediate_files/{sample}.sam.filter')
+    log:
+        os.path.join(out_dir,'{project}/{sample}/logs/{sample}.filter_sam.log')
+    message:
+        "step3: filter mapped reads by 90% using samtools"
+    threads: 2
+    conda:
+        "MetaVF_toolkit"
+    shell:
+        """samtools view -F 4 {input} --threads {threads} | grep 'YI:f:' | grep -v @ | \
+awk -F ':' '$NF>90{{print $0}}'|awk -F '\t' '{{print $3}}'|awk -F '|' '{{print $1}}'|\
+sort|uniq -c|awk -F ' ' '{{OFS="\\t"}}{{print $2,$1}}' > {output}"""
+
+#step3
+rule cal_VF_genes:
+    input:
+        os.path.join(out_dir,'{project}/{sample}/intermediate_files/{sample}.rpkm'),
+        os.path.join(out_dir,'{project}/{sample}/intermediate_files/{sample}.sam.filter')
+    output:
+        os.path.join(out_dir,'{project}/{sample}/{sample}.summary')
+    log:
+        os.path.join(out_dir,'{project}/{sample}/logs/{sample}.summary.log')
+    message:
+        "step3: calulate the abundance of VF genes, predict plasmid and species origin of VF genes in the sample"
+    conda:
+        "MetaVF_toolkit"
+    shell:
+        """python scripts/cal_VF_genes.py {VF_file1} {input[0]} {input[1]} {output}"""
+
+#step4
+rule cal_VF:
+    input:
+        os.path.join(out_dir,'{project}/{sample}/{sample}.summary')
+    output:
+        os.path.join(out_dir,'{project}/{sample}/{sample}.VF_info.summary')
+    log:
+        os.path.join(out_dir,'{project}/{sample}/logs/{sample}.VF_info.summary.log')
+    message:
+        "step4: estimate the abundance, completeness, mobile and species of VFs in the sample"
+    conda:
+        "MetaVF_toolkit"
+    shell:
+        """python scripts/cal_VF.py {input[0]} {VF_file1} {VF_file2} {output}"""

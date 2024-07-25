@@ -1,0 +1,129 @@
+import os
+
+metaVF_sequence_db="databases/pVFGC.fasta"
+VF_file1="databases/VF_info_file"
+VF_file2="databases/VFs_complete_num"
+SAMPLE=config["metaVF"]["sample"] 
+PROJECT=config["metaVF"]["project"]   
+data_dir=config["metaVF"]["datadir"]  
+out_dir=config["metaVF"]["outdir"] 
+identity=config["metaVF"]["thre_identity"]
+coverage=config["metaVF"]["thre_coverage"]
+rule all:
+    input:
+        expand(os.path.join(data_dir,'{sample}.fna.ndb'),sample=SAMPLE),
+        expand(os.path.join(data_dir,'{sample}.fna.nhr'),sample=SAMPLE),
+        expand(os.path.join(data_dir,'{sample}.fna.nin'),sample=SAMPLE),
+        expand(os.path.join(data_dir,'{sample}.fna.njs'),sample=SAMPLE),
+        expand(os.path.join(data_dir,'{sample}.fna.not'),sample=SAMPLE),
+        expand(os.path.join(data_dir,'{sample}.fna.nsq'),sample=SAMPLE),
+        expand(os.path.join(data_dir,'{sample}.fna.ntf'),sample=SAMPLE),
+        expand(os.path.join(data_dir,'{sample}.fna.nto'),sample=SAMPLE),
+        expand(os.path.join(out_dir,'{project}/{sample}/intermediate_files/{sample}.blastn'),sample=SAMPLE,project=PROJECT),
+        expand(os.path.join(out_dir,'{project}/{sample}/intermediate_files/{sample}.blastn.filter'),sample=SAMPLE,project=PROJECT),
+        expand(os.path.join(out_dir,'{project}/{sample}/{sample}.blastn.filter.best'),sample=SAMPLE,project=PROJECT),
+        expand(os.path.join(out_dir,'{project}/{sample}/{sample}.summary'),sample=SAMPLE,project=PROJECT),
+        expand(os.path.join(out_dir,'{project}/{sample}/{sample}.VF.fasta'),sample=SAMPLE,project=PROJECT),
+        expand(os.path.join(out_dir,'{project}/{sample}/{sample}.VF_info.summary'),sample=SAMPLE,project=PROJECT)
+
+#step1
+rule makeblastdb:
+    input:
+        os.path.join(data_dir,'{sample}.fna')
+    output:
+        os.path.join(data_dir, '{sample}.fna.ndb'),
+        os.path.join(data_dir, '{sample}.fna.nhr'),
+        os.path.join(data_dir, '{sample}.fna.nin'),
+        os.path.join(data_dir, '{sample}.fna.njs'),
+        os.path.join(data_dir, '{sample}.fna.not'),
+        os.path.join(data_dir, '{sample}.fna.nsq'),
+        os.path.join(data_dir, '{sample}.fna.ntf'),
+        os.path.join(data_dir, '{sample}.fna.nto')
+    #log:
+        #os.path.join(out_dir,'{project}/{sample}/logs/{sample}.makeblastdb.log')
+    message:
+        "step1: makeblastdb for each genome"
+    params:
+        blastndb_name=os.path.join(data_dir,'{sample}.fna')
+    conda:
+        "MetaVF_toolkit"
+    shell:
+        """makeblastdb -dbtype nucl -in {input} -out {params.blastndb_name}"""
+
+#step2
+rule blastn:
+    input:
+        os.path.join(data_dir, '{sample}.fna.ndb'),
+        os.path.join(data_dir, '{sample}.fna.nhr'),
+        os.path.join(data_dir, '{sample}.fna.nin'),
+        os.path.join(data_dir, '{sample}.fna.njs'),
+        os.path.join(data_dir, '{sample}.fna.not'),
+        os.path.join(data_dir, '{sample}.fna.nsq'),
+        os.path.join(data_dir, '{sample}.fna.ntf'),
+        os.path.join(data_dir, '{sample}.fna.nto')
+    output:
+        os.path.join(out_dir,'{project}/{sample}/intermediate_files/{sample}.blastn')
+    message:
+        "step2: run blastn to detect VF genes in the sample"
+    params:
+        blastndb_name=os.path.join(data_dir,'{sample}.fna')
+    threads: 4
+    conda:
+        "MetaVF_toolkit"
+    shell:
+        """blastn -query {metaVF_sequence_db} -out {output} -db {params.blastndb_name} -outfmt "6 std gaps qcovs qcovhsp sstrand sseq" -num_threads {threads} -max_hsps 1"""
+
+#step3:
+rule filter_blastn:
+    input:
+        os.path.join(out_dir,'{project}/{sample}/intermediate_files/{sample}.blastn')
+    output:
+        os.path.join(out_dir,'{project}/{sample}/intermediate_files/{sample}.blastn.filter')
+    message:
+        "step3: filter blast result by coverage, identity and bitscore"
+    conda:
+        "MetaVF_toolkit"
+    shell:
+        """python scripts/filter_blast_result.py {input} {identity} {coverage} {output}"""
+
+#step4
+
+rule select_best_blastn:
+    input:
+        os.path.join(out_dir,'{project}/{sample}/intermediate_files/{sample}.blastn.filter')
+    output:
+        os.path.join(out_dir,'{project}/{sample}/{sample}.blastn.filter.best')
+    message:
+        "step4: remove redundant hits"
+    conda:
+        "MetaVF_toolkit"
+    shell:
+        """python scripts/select_best_hit.py {input} {output}"""
+
+
+#step5
+rule cal_VF_genes:
+    input:
+        os.path.join(out_dir,'{project}/{sample}/{sample}.blastn.filter.best')
+    output:
+        os.path.join(out_dir,'{project}/{sample}/{sample}.summary'),
+        os.path.join(out_dir,'{project}/{sample}/{sample}.VF.fasta')
+    message:
+        "step5: predict plasmid and species origin of VF genes in the sample"
+    conda:
+        "MetaVF_toolkit"
+    shell:
+        """python scripts/cal_VF_genes_draft.py {VF_file1} {input[0]} {output[0]} {output[1]}"""
+
+#step6
+rule cal_VFs:
+    input:
+        os.path.join(out_dir,'{project}/{sample}/{sample}.summary')
+    output:
+        os.path.join(out_dir,'{project}/{sample}/{sample}.VF_info.summary')
+    message:
+        "step6: estimate the completeness, mobile and species of VFs in the sample"
+    conda:
+        "MetaVF_toolkit"
+    shell:
+        """python scripts/cal_VF_draft.py {input[0]} {VF_file1} {VF_file2} {output}"""
