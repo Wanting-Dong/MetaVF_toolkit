@@ -17,7 +17,7 @@ conda activate MetaVF_toolkit
 metaVF.py -h
 
 #for draft genemes, please run
-metaVF.py -p /path/to/MetaVF_toolkit -pjn draft_test -id /path/to/MetaVF_toolkit/example_data/data -o /data/gmp/ssani_snakemake_pipeline/MetaVF_toolkit/example_data/test_draft -m draft -c 10 -ti 90 -tc 80
+metaVF.py -p /path/to/MetaVF_toolkit -pjn draft_test -id /path/to/MetaVF_toolkit/example_data/data -o /path/to/MetaVF_toolkit/example_data/test_draft -m draft -c 10 -ti 90 -tc 80
 
 
 #for pair-end short reads, please run
