@@ -38,3 +38,9 @@ MetaVF_toolkit is a software to profile VF genes in metagenomic sequencing sampl
     #attention: the file should ends with ".fastq.gz"
 
     #the output files are located in /path/to/MetaVF_toolkit/example_data/result_test.
+    
+#The results include
+
+    *.summary: The VF profiling based on each VF gene, including the length of VF gene (length), the abundance of VF gene (TPM),  if the VF gene is species specific (species_specific), if the VF gene can be carried by plasmid, ICE or prophage and the categroy of VF gene.
+    
+    *.VF_info.summary: The VF profiling based on each VF, including the abundance of VF (TPM), the candidate host species of the VF (Host_species), if the VF gene can be carried by plasmid, ICE or prophage, the categroy of VF, and the completeness of VF.    
