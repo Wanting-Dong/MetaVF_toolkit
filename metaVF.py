@@ -28,7 +28,7 @@ def main():
                         default="metavfjob",
                         help='name of the project(example: draft)')
     parser.add_argument('-id','--in_data_dir', type=str, dest='direct_indata_path', required=True, \
-            help='the direct path of the in data directory(example: /data/home/MetaVF_toolkit/example/data/draft)')
+            help='the direct path of the in data directory(example: /data/home/MetaVF_toolkit/example/data/draft). Attention: the extension of the input files should be *.fastq.gz in PE mode and *.fna in draft mode.')
     parser.add_argument('-outd','--output_dir', type=str, dest='direct_output_path', required=False, \
             default='', help='the direct path of the output files directory(example: /data/home/MetaVF_toolkit/example/data)')
     parser.add_argument('-ti','--thre_identity', type=int, required=False, default=90, \
