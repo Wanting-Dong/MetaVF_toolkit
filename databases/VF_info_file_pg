@@ -1,0 +1,14 @@
+VF	VFid	pos	category	species_specific	Host_species	ICE	prophage	length	plasmid
+P. gingivalis | mfa short fimbriae	mfa1	chromosome	Colonization_VF	Y	Porphyromonas gingivalis	N	N	1623	N
+P. gingivalis | mfa short fimbriae	mfa2	chromosome	Colonization_VF	Y	Porphyromonas gingivalis	N	N	970	N
+P. gingivalis | mfa short fimbriae	mfa3	chromosome	Colonization_VF	Y	Porphyromonas gingivalis	N	N	1341	N
+P. gingivalis | mfa short fimbriae	mfa4	chromosome	Colonization_VF	Y	Porphyromonas gingivalis	N	N	1002	N
+P. gingivalis | mfa short fimbriae	mfa5	chromosome	Colonization_VF	Y	Porphyromonas gingivalis	N	N	3682	N
+P. gingivalis | Gingipain	rgpA	chromosome	True_VF	Y	Porphyromonas gingivalis	N	N	5116	N
+P. gingivalis | Gingipain	rgpB	chromosome	True_VF	Y	Porphyromonas gingivalis	N	N	2211	N
+P. gingivalis | Hemagglutinin	hagA	chromosome	True_VF	Y	Porphyromonas gingivalis	N	N	6621	N
+P. gingivalis | Hemagglutinin	hagB	chromosome	True_VF	Y	Porphyromonas gingivalis	N	N	993	N
+P. gingivalis | T9SS	PorU	chromosome	True_VF	Y	Porphyromonas gingivalis	N	N	3477	N
+P. gingivalis | T9SS	PorV	chromosome	True_VF	Y	Porphyromonas gingivalis	N	N	1176	N
+P. gingivalis | T9SS	PorP	chromosome	True_VF	Y	Porphyromonas gingivalis	N	N	942	N
+P. gingivalis | T9SS	PorQ	chromosome	True_VF	Y	Porphyromonas gingivalis	N	N	993	N
